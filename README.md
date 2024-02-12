@@ -20,3 +20,13 @@
 하지만, React나 Vue를 사용하기에 앞서 Vanilla JS가 기본 Base가 되야한다는 생각이 들었습니다. Vanilla JS를 공부하기 위한 참고 자료로 NomadCoder를 운영하는 니꼴라스의 강의를 토대로 해당 프로젝트를 진행하게 됐습니다.
 
 # 무엇을 얻을 수 있었나
+> 학습 내용은 개인적으로 Notion에 기록한 [JS Blog Posting & Reference](https://fir-conga-fc3.notion.site/JS-Blog-Posting-Reference-6c6a29654c5140688c546465271f66d9?pvs=4) 링크로 이동하시면 자세히 보실 수 있습니다.
+- JavaScript 언어 기초 공부
+- 객체 모델(내장 객체, 브라우저 객체 모델, 문서 객체 모델 등)
+- Document 실습
+- JS 활용한 HTML 조작법
+- console.log()와 querySelectorAll()
+- class 추가/변경/삭제/일기
+- 이벤트리스너 활용(MouseEvent / getElementById)
+- 기타
+  - [console / 이벤트리스터 종류] 등
