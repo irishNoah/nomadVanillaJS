@@ -26,7 +26,7 @@
 - Document 실습
 - JS 활용한 HTML 조작법
 - console.log()와 querySelectorAll()
-- class 추가/변경/삭제/일기
+- class 추가/변경/삭제/읽기
 - 이벤트리스너 활용(MouseEvent / getElementById)
 - 기타
   - [console / 이벤트리스터 종류] 등
